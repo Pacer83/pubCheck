@@ -1,1 +1,1 @@
-ALLOWWW
+ALLOW
